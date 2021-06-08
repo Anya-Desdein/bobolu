@@ -1,0 +1,6 @@
+[submodule "bobolu-backend"]
+	path = bobolu-backend
+	url = https://github.com/Heavelyn/bobolu-backend.git
+[submodule "bobolu-frontend"]
+	path = bobolu-frontend
+	url = https://github.com/Heavelyn/bobolu-frontend.git
